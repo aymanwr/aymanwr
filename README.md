@@ -18,8 +18,12 @@ Backend development-Firebase,SQL<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanwr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanwr&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aymanwr" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymanwr&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ⏳ **EMSI Progress** { █████████████████████████████▁▁▁ } 82.68 %
