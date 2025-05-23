@@ -18,6 +18,9 @@ Backend development-Firebase,SQL<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanwr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ⏳ **EMSI Progress** { █████████████████████████████▁▁▁ } 82.68 %
 <!--
 **aymanwr/aymanwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
