@@ -1,7 +1,24 @@
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
- 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Mahdi Mohammed Ayman"
+        self.role = "Software Engineer"
+        self.language_spoken = ["fr_FR", "en_US","ar_AE"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
  <br>
- 
 
 <p align="center" ><img src="https://github.com/aymanwr/aymanwr/blob/main/wrench.jpg"  width="700" />
 
