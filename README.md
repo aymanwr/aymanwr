@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-Mobile application development using Flutter
+Mobile application development using Flutter<br>
 Web app using Django(Python)
 Web development-HTML/CSS,Javascript
 Backend development-Firebase,SQL
