@@ -1,12 +1,20 @@
 ## Hi there 👋
 
 <p align="center" ><img src="https://github.com/aymanwr/aymanwr/blob/main/wrench.jpg"  width="700" />
+
+  <br>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="400" height="auto" />
+
+
+<br>
 
 Mobile application development using Flutter<br>
 Web app using Django(Python)<br>
 Web development-HTML/CSS,Javascript<br>
 Backend development-Firebase,SQL<br>
+
+
+<br>
 
 ### Languages
 
@@ -23,10 +31,16 @@ Backend development-Firebase,SQL<br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+<br>
+
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=aymanwr&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanwr&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/aymanwr/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymanwr&theme=dark)](https://git.io/streak-stats)
+
+
+<br>
 
 
 ⏳ **EMSI Progress** { ████████████████████████___▁▁▁ } 82.68 %
