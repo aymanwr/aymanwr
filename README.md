@@ -16,6 +16,9 @@ Backend development-Firebase,SQL<br>
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+
+⏳ **EMSI Progress** { █████████████████████████████▁▁▁ } 82.68 %
 <!--
 **aymanwr/aymanwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
