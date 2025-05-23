@@ -1,4 +1,4 @@
- Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
  
  <br>
  
