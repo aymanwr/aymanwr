@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/aymanwr/aymanwr/blob/main/wrench.jpg"/>
+<img src="https://github.com/aymanwr/aymanwr/blob/main/wrench.jpg" width="100" />
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="400" height="auto" />
 
 Mobile application development using Flutter<br>
