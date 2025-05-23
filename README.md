@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+#### 📫 How to reach me:
+
+
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](ttps://discord.gg/SZeHdAFGaz)  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mahdi-mohammed-ayman/))  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]([https://www.instagram.com/aditya.pal23/](https://www.instagram.com/aymaan_wl/))  &nbsp;
+<a href="mailto:mahdi.medayman@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
+<br>
+
 <p align="center" ><img src="https://github.com/aymanwr/aymanwr/blob/main/wrench.jpg"  width="700" />
 
   <br>
@@ -48,13 +59,7 @@ Backend development-Firebase,SQL<br>
 <br>
 
 
-#### 📫 How to reach me:
 
-
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](ttps://discord.gg/SZeHdAFGaz)  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mahdi-mohammed-ayman/))  &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]([https://www.instagram.com/aditya.pal23/](https://www.instagram.com/aymaan_wl/))  &nbsp;
-<a href="mailto:mahdi.medayman@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 <!--
 **aymanwr/aymanwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
