@@ -74,7 +74,7 @@ Backend development-Firebase,SQL<br>
 <br>
 
 
-⏳ **EMSI Progress** { ████████████████████████___▁▁▁ } 82.68 %
+⏳ **EMSI Progress** { █████████████████████████████▁▁ } 89.57 %
 
 <br>
 
