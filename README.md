@@ -1,4 +1,3 @@
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -8,7 +7,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Mahdi Mohammed Ayman"
-        self.role = "Software Engineer"
+        self.role = "Junior Software Developer"
         self.language_spoken = ["fr_FR", "en_US","ar_AE"]
 
     def say_hi(self):
@@ -28,15 +27,15 @@ me.say_hi()
 
 <br>
 
+Full-Stack development using React, Next.js & FastAPI<br>
 Mobile application development using Flutter<br>
-Web app using Django(Python)<br>
-Web development-HTML/CSS,Javascript<br>
-Backend development-Firebase,SQL<br>
+Backend development using Spring Boot, NestJS & REST APIs<br>
+PostgreSQL, Supabase, SQL & JWT Authentication<br>
 
 
 <br>
 
-### Languages
+### Technologies & Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -62,6 +61,15 @@ Backend development-Firebase,SQL<br>
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]([https://www.instagram.com/aditya.pal23/](https://www.instagram.com/aymaan_wl/))  &nbsp;
 <a href="mailto:mahdi.medayman@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
+
+<br>
+
+### Current Focus
+
+- Building full-stack web and mobile applications
+- Working with AI-assisted software solutions
+- Improving backend architecture and cloud integrations
+- Open to Junior Software Developer opportunities in Canada 🇨🇦
 
 <br>
 
