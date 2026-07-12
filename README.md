@@ -82,7 +82,7 @@ PostgreSQL, Supabase, SQL & JWT Authentication<br>
 <br>
 
 
-⏳ **EMSI Progress** { █████████████████████████████▁▁ } 89.57 %
+⏳ **EMSI Progress** { ███████████████████████████████▁ } 98.67 %
 
 <br>
 
