@@ -1,102 +1,103 @@
+<div align="center">
+
+# Hey, I’m Ayman 👋
+
+### Software developer. Rider. Curious by default.
+
+Building web and mobile experiences—from useful tools to motorcycle communities.
+
+**Casablanca, Morocco · Arabic / French / English**
+
+[Explore my portfolio](https://ayman.mohammed-mahdi.workers.dev/en) · [LinkedIn](https://www.linkedin.com/in/mahdi-mohammed-ayman/) · [Email](mailto:mahdi.medayman@gmail.com)
+
+</div>
+
+---
+
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
+class Ayman:
     def __init__(self):
         self.name = "Mahdi Mohammed Ayman"
         self.role = "Junior Software Developer"
-        self.language_spoken = ["fr_FR", "en_US","ar_AE"]
+        self.building = ["web apps", "mobile apps", "practical AI features"]
+        self.offline = ["motorcycles", "music", "writing", "gaming"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
+        return "Welcome to my little corner of the internet."
 ```
- <br>
 
-<p align="center" ><img src="https://github.com/aymanwr/aymanwr/blob/main/wrench.jpg"  width="700" />
+## A little about me
 
-  <br>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="350" height="auto" />
+I’m a software developer based in Casablanca, with a background in Computer and Network Engineering at EMSI.
 
+I enjoy connecting the pieces: understanding a problem, designing an interface, and building the services behind it. My experience includes internships and projects across web applications, mobile development, document workflows, and AI integrations.
 
-<br>
+I also use AI coding tools, including Codex, in my development workflow. My project case studies explain my contribution and how each project was built.
 
-Full-Stack development using React, Next.js & FastAPI<br>
-Mobile application development using Flutter<br>
-Backend development using Spring Boot, NestJS & REST APIs<br>
-PostgreSQL, Supabase, SQL & JWT Authentication<br>
+**Currently open to junior software development opportunities and international relocation.**
 
+## Things I’m building
 
-<br>
+### 🏍️ Rideline
+**Your bikes. Your roads. Your riding circle.**
 
-### Technologies & Tools
+My personal motorcycle community project: rider profiles, virtual garages, social interactions, clubs, local meetings, motorcycle care, and foreground ride recording.
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "40" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+I lead the product and UX direction and develop it with substantial Codex assistance.
 
+`React Native` `Expo` `TypeScript` `Next.js` `Hono` `Supabase` `Cloudflare`
 
-<br>
+**In development** · [Case study](https://ayman.mohammed-mahdi.workers.dev/en/projects/rideline) · [Web preview](https://rideline-web-dev.mohammed-mahdi.workers.dev/)
 
-#### 📫 How to reach me:
+### 🌍 Student Visa Management Platform
+Web and mobile workflows for student visa applications, document validation, university recommendations, and an assistance chatbot.
 
+`Next.js` `FastAPI` `Flutter` `PostgreSQL` `Supabase` `Ollama`
 
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](ttps://discord.gg/SZeHdAFGaz)  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mahdi-mohammed-ayman/))  &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]([https://www.instagram.com/aditya.pal23/](https://www.instagram.com/aymaan_wl/))  &nbsp;
-<a href="mailto:mahdi.medayman@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[Explore the project](https://ayman.mohammed-mahdi.workers.dev/en/projects/student-visa-platform)
 
+### 🔗 WRX Generator V2
+A co-developed academic project bringing short links, QR codes, password generation, analytics, and subscription workflows into one workspace.
 
-<br>
+`React` `TypeScript` `NestJS` `Supabase` `Stripe`
 
-### Current Focus
+[Explore the project](https://ayman.mohammed-mahdi.workers.dev/en/projects/wrx-generator-v2)
 
-- Building full-stack web and mobile applications
-- Working with AI-assisted software solutions
-- Improving backend architecture and cloud integrations
-- Open to Junior Software Developer opportunities in Canada 🇨🇦
+### 💪 WRX Workout
+A Flutter fitness application combining daily tracking, adaptive quests, an AI coach, and local storage.
 
-<br>
+`Flutter` `Firebase` `Hive` `OpenRouter`
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aymanwr&theme=dark)](https://git.io/streak-stats)
+[Explore the project](https://ayman.mohammed-mahdi.workers.dev/en/projects/wrx-workout)
 
+## My toolbox
 
-<br>
+| Area | Technologies |
+| :--- | :--- |
+| Web | React, Next.js, TypeScript, JavaScript, HTML, CSS |
+| Mobile | React Native, Expo, Flutter, Dart |
+| Backend | Python, FastAPI, NestJS, Hono, REST APIs |
+| Data | PostgreSQL, Supabase, SQLite, Firebase |
+| Tools & cloud | Git, GitHub, Docker, Cloudflare, VS Code |
+| AI integrations | Ollama, OpenRouter, AI-assisted development |
 
+## Beyond the code
 
-⏳ **EMSI Progress** { █████████████████████████████████ } 100 %
+- 🏍️ Motorcycles, mountain roads, and trips with friends.
+- 🎧 Making music as **WRENCH**.
+- 📖 Author of **The Shape of Love**, a personal philosophical exploration of how our attachments shape us.
+- 🎮 Gaming under **WRENCH**.
 
-<br>
+[Discover the other side of me →](https://ayman.mohammed-mahdi.workers.dev/en?app=hobbies)
 
+---
 
+<div align="center">
 
-<!--
-**aymanwr/aymanwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Have an opportunity or something interesting to build?**
 
-Here are some ideas to get you started:
+[Let’s talk](mailto:mahdi.medayman@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Good roads. Good ideas. Always something to explore.*
+
+</div>
